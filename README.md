@@ -16,9 +16,7 @@ This project looks into the study of Equity Valuation and the many methods as pr
 .
 ├── .ipynb_checkpoints
 ├── Algo trader
-│   └── FTSII Algo Trader Bot.ipynb
 ├── Data unused
-├── FTSII Algo Trader Bot.ipynb
 ├── Finance PROJECT
 │   ├── LockheedMartin_Intrinsic Valuation
 │   ├── MIT Project Report
