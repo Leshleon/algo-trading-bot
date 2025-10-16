@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Venv
+.venv/
+
+# data files
+*.csv
+*.xlsx
+*.xls
+
+# finance project
+finance_project/

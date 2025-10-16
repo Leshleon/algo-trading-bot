@@ -1,0 +1,19 @@
+2025-10-13 06:45:14 | INFO | main | === Data Processing Start ===
+2025-10-13 06:45:14 | INFO | short_strangle.data_processor | Loading data from /home/leshleon/projects/quode_application/data/Options_data_2023.csv
+2025-10-13 06:45:16 | INFO | short_strangle.data_processor | Loaded 10266681 rows
+2025-10-13 06:45:16 | INFO | short_strangle.data_processor | load_csv() took 2.005s
+2025-10-13 06:45:16 | INFO | main | Data loaded in: 2.005s
+2025-10-13 06:45:16 | INFO | short_strangle.data_processor | Starting preprocessing...
+2025-10-13 06:45:53 | INFO | short_strangle.data_processor | Parsing took: 35.071s
+2025-10-13 06:45:53 | INFO | main | Data parsed in: 37.078s
+2025-10-13 06:45:53 | INFO | short_strangle.data_processor | Starting processing...
+2025-10-13 06:45:54 | INFO | short_strangle.data_processor | Processing took: 0.8664885749967652s
+2025-10-13 06:45:54 | INFO | main | Data processed in: 0.867s
+2025-10-13 06:45:54 | INFO | short_strangle.data_processor | Trading on all weeks of the month.
+2025-10-13 06:45:54 | INFO | main | === Backtester Engine online ===
+2025-10-13 06:45:54 | INFO | short_strangle.backtester | Printing cash...
+2025-10-13 06:46:39 | INFO | main | Engine completed in: 44.004s
+2025-10-13 06:46:39 | INFO | short_strangle.stats | build_stats finished in 0.020s
+2025-10-13 06:46:39 | INFO | main | Stats completed in: 0.07s
+2025-10-13 06:46:39 | INFO | main | Total time lapsed: 82.023s
+2025-10-13 06:46:39 | INFO | main | === System Shut Down ===
